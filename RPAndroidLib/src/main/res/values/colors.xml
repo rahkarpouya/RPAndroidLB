@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorBackgroundAccent">#EEEFF1</color>
+    <color name="colorBackgroundLight">#FFFFFF</color>
+    <color name="colorBackgroundDark">#424242</color>
+
+    <color name="colorTextDark">#5C5C5C</color>
+    <color name="colorTextLight">#ffffff</color>
+    <color name="colorTextSecondary">#ff888888</color>
+
+    <color name="colorIconDark">#5C5C5C</color>
+    <color name="colorIconLight">#ffffff</color>
+    <color name="colorIconSecondary">#ff888888</color>
+
+    <color name="divider">#BDBDBD</color>
+
+    <color name="greenColor">#388E3C</color>
+    <color name="redColor">#DB2C1F</color>
+
+    <color name="colorError">#DB2C1F</color>
+    <color name="colorOk">#388E3C</color>
+    <color name="colorInfo">#3F51B5</color>
+    <color name="colorStop">#F57C00</color>
+
+    <color name="colorBottomNavigationAccent">#FF4081</color>
+    <color name="colorBottomNavigationActiveColored">#FFFFFF</color>
+    <color name="colorBottomNavigationDisable">#3A000000</color>
+    <color name="colorBottomNavigationInactive">#747474</color>
+    <color name="colorBottomNavigationInactiveColored">#50FFFFFF</color>
+    <color name="colorBottomNavigationNotification">#F63D2B</color>
+    <color name="colorBottomNavigationPrimary">#3F51B5</color>
+    <color name="colorBottomNavigationPrimaryDark">#303F9F</color>
+    <color name="colorBottomNavigationSelectedBackground">#17000000</color>
+
+</resources>

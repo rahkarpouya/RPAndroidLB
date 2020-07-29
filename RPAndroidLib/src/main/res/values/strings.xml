@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RPAndroidLib</string>
+
+    <string name="lblConfirm">تأیید</string>
+    <string name="lblCancel">انصارف</string>
+
+    <string name="crop_image_activity_no_permissions">لغو ، مجوزهای لازم اعطا نمی شود</string>
+    <string name="crop_image_activity_title" />
+    <string name="crop_image_menu_crop">برش</string>
+    <string name="crop_image_menu_flip">Flip</string>
+    <string name="crop_image_menu_flip_horizontally">آینه کردن افقی</string>
+    <string name="crop_image_menu_flip_vertically">آینه کردن عمودی</string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">چرخش</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+
+    <!--    crashlytics  -->
+    <string name="crash_close_app">بستن برنامه</string>
+    <string name="crash_error_details">ارسال خطای برنامه</string>
+    <string name="crash_details_close">بستن</string>
+    <string name="crash_details_copy">کپی خطا</string>
+    <string name="crash_details_title">مشخصات خطای برنامه</string>
+    <string name="crash_occurred_explanation">برنامه متوقف شده است</string>
+    <string name="crash_restart_app">شروع مجدد برنامه</string>
+    <!--    crashlytics  -->
+
+</resources>
